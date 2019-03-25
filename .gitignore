@@ -1,0 +1,21 @@
+# Backend
+target/
+data/
+
+# Eclipse
+.factorypath
+.classpath
+.project
+.settings/
+bin/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#VSCode
+.vscode
